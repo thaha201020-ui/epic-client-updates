@@ -1,0 +1,30 @@
+{
+  "stable": {
+    "version": "1.0.0",
+    "minecraft": "1.21.1",
+    "changelog": [
+      "Initial release of Epic Client!",
+      "FPS Boost Ultra",
+      "Custom Crosshair",
+      "HUD Position Editor",
+      "Projectile Path"
+    ],
+    "download_url": "https://thaha201020-ui.github.io/epic-client-updates/versions/1.0.0/epicclient-1.0.0.jar",
+    "size": 524288,
+    "required_mods": [
+      {
+        "name": "Fabric API",
+        "version": "0.116.7+1.21.1",
+        "url": "https://YOUR-USERNAME.github.io/epic-client-updates/versions/1.0.0/fabric-api.jar"
+      }
+    ]
+  },
+  "beta": {
+    "version": "1.0.0",
+    "minecraft": "1.21.1",
+    "changelog": ["Same as stable"],
+    "download_url": "https://YOUR-USERNAME.github.io/epic-client-updates/versions/1.0.0/epicclient-1.0.0.jar",
+    "size": 524288,
+    "required_mods": []
+  }
+}
