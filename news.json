@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "title": "Epic Client v1.0.0 Released!",
+      "date": "2025-02-11",
+      "content": "Welcome to Epic Client! Amazing features await you!",
+      "icon": "🚀"
+    },
+    {
+      "title": "Join Our Discord!",
+      "date": "2025-02-11",
+      "content": "Get support and chat with the community!",
+      "icon": "💬"
+    }
+  ]
+}
